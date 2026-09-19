@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Sep 16 10:27:13 CST 2026
+comment0.target=Pago
+comment1.params=intCodigo objCita dblMonto strFecha strMetodo
+comment1.target=Pago(int, Cita, double, java.lang.String, java.lang.String)
+comment2.target=void mostrarPago()
+numComments=3
