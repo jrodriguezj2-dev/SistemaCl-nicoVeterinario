@@ -1,8 +1,0 @@
-#BlueJ class context
-#Wed Sep 16 10:25:46 CST 2026
-comment0.target=Cita
-comment1.params=intNumero objMascota objVeterinario strFecha strMotivo
-comment1.target=Cita(int, Mascota, Veterinario, java.lang.String, java.lang.String)
-comment2.target=void mostrarCita()
-comment3.target=void cancelarCita()
-numComments=4

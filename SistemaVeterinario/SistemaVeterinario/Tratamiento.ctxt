@@ -1,7 +1,0 @@
-#BlueJ class context
-#Wed Sep 16 10:26:43 CST 2026
-comment0.target=Tratamiento
-comment1.params=intCodigo strDescripcion strMedicamento strDuracion
-comment1.target=Tratamiento(int, java.lang.String, java.lang.String, java.lang.String)
-comment2.target=void mostrarTratamiento()
-numComments=3

@@ -1,7 +1,0 @@
-#BlueJ class context
-#Wed Sep 16 10:24:43 CST 2026
-comment0.target=Persona
-comment1.params=strNombre strTelefono
-comment1.target=Persona(java.lang.String, java.lang.String)
-comment2.target=void mostrarInformacion()
-numComments=3
