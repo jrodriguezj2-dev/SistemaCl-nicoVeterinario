@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Sep 16 10:26:56 CST 2026
+comment0.target=Vacuna
+comment1.params=intCodigo strNombre strFecha strProximaDosis
+comment1.target=Vacuna(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.target=void mostrarVacuna()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Sep 16 10:27:29 CST 2026
+comment0.target=ClinicaVeterinaria
+comment1.params=strNombre strDireccion strTelefono
+comment1.target=ClinicaVeterinaria(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=void mostrarClinica()
+numComments=3
